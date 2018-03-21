@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+.row {
+  margin: 35px;
+  display: flex; }
+  .row .col-2 {
+    justify-content: space-around;
+    align-items: center;
+    text-align: center; }
+    .row .col-2 img {
+      width: 150px; }
+    .row .col-2:hover {
+      cursor: pointer; }
+
+/*# sourceMappingURL=style.css.map */
